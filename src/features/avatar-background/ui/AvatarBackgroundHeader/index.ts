@@ -1,0 +1,1 @@
+export { AvatarBackgroundHeader } from "./AvatarBackgroundHeader";

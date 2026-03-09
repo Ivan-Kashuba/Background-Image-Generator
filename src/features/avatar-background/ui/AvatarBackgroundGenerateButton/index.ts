@@ -1,0 +1,1 @@
+export { AvatarBackgroundGenerateButton } from "./AvatarBackgroundGenerateButton";

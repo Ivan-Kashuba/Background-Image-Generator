@@ -1,0 +1,1 @@
+export { AvatarBackgroundGrid } from "./AvatarBackgroundGrid";
